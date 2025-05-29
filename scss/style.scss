@@ -1,0 +1,19 @@
+@import 'variables';
+@import 'header';
+@import 'hero';
+@import 'reviews';
+@import 'oferta';
+@import 'galeria';
+@import 'kontakt';
+@import 'footer';
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fff;
+  color: $text-color;
+}
+
+section {
+  padding: 60px 20px;
+}
